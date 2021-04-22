@@ -12,7 +12,7 @@ public class WebBase {
 	public static WebDriver launchbrowser(String browser ) {
 		// TODO Auto-generated method stub
 
-		//String browser="chrome";
+		//String browser="chrome";;
 		
 		if(browser.equals("chrome")) {
 			
